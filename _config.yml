@@ -338,4 +338,4 @@ compress_html:
 
 
 # Theme
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: "neon"
