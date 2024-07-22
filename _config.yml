@@ -338,5 +338,4 @@ compress_html:
 
 
 # Theme
-theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: neon
